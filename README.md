@@ -6,7 +6,7 @@ Experiments using the Turing.jl package.
 
 ```jupyter lab --no-browser --port=8887``` for running on headless server and connecting over ssh tunnel.
 
-# Version infor
+# Version information
 
 ```Julia Version 1.8.2
 Commit 36034abf260 (2022-09-29 15:21 UTC)
@@ -19,4 +19,5 @@ Platform Info:
   Threads: 1 on 128 virtual cores
 Environment:
   JULIA_DEPOT_PATH = /disk/scratch/s2125151/opt/julia_depot
-  LD_LIBRARY_PATH = /disk/scratch/s2125151/lib```
+  LD_LIBRARY_PATH = /disk/scratch/s2125151/lib
+```
